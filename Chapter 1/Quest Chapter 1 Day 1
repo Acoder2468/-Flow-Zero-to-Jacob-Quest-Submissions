@@ -16,3 +16,9 @@ A smart contract is a form of initiator for the blockchain that can start a spec
 Explain the difference between a script and a transaction
 
 A script are a way to view the blockchain data in an read only format because it can not change it and it is free, but on the other hand a transaction is not free and can change data on the blockchain and is the only way to change it.
+
+
+
+
+
+(added word wrap)
